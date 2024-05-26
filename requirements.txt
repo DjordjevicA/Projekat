@@ -1,0 +1,11 @@
+flask
+sqlalchemy
+flask-cors
+connexion
+openalchemy
+psycopg2-binary
+sqlalchemy-utils
+flask-sqlalchemy
+connexion[flask]
+connexion[uvicorn]
+connexion[swagger-ui]
